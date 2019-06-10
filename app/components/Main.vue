@@ -276,9 +276,8 @@ export default {
 			if(val === 'scanner'){
 				// this.$store.commit('addproducto', this.listaDescription[0])
 			}else{
-				// this.$store.commit('addproducto', val)
+
 			}
-			
 		},
 		search(){
 			console.log('search')
